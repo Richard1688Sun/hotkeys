@@ -8,13 +8,13 @@ Send, f***
 Return
 
 ::shit::
-Send, trash
+Send, sh**
 Return
 
 ::asshole::
-Send, a-hole
+Send, as*h*le
 Return
 
 ::tf::
-Send, what in world
+Send, the f***
 Return
