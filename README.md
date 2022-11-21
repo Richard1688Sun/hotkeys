@@ -42,6 +42,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```
 
 ## Credits
-  **inspired from Calvin**
+  **inspired from @im-calvin**
   
   **reminded by @ElioDiNino**
