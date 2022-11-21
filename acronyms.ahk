@@ -64,5 +64,9 @@ Send, why
 Return
 
 :C:u::
-Send you
+Send, you
+Return
+
+:C:thx::
+Send, thanks
 Return
