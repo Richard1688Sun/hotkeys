@@ -12,9 +12,13 @@ Send, sh**
 Return
 
 ::asshole::
-Send, as*h*le
+Send, assh***
 Return
 
 ::tf::
 Send, the f***
+Return
+
+::fucked::
+Send, f***ed
 Return
