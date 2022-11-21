@@ -54,3 +54,15 @@ Return
 :C:ez::
 Send, easy
 Return
+
+:C:idek::
+Send, I don't even know
+Return
+
+:C:y::
+Send, why
+Return
+
+:C:u::
+Send you
+Return
