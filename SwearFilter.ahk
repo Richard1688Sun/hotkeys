@@ -26,3 +26,7 @@ Return
 ::wtf::
 Send, what the f***
 Return
+
+::bitch::
+Send, bit**
+Return
