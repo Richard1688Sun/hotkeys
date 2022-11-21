@@ -3,7 +3,7 @@
 ## Description
 
 <br />
-Hi stranger! Are you tired of typing a whole rephases and like to type acronyms?
+Hi stranger! Are you tired of typing whole rephases and prefer to type acronyms?
 <br />
 Are you concerned for your uncultured friends and worry about them not understanding your texts?
 <br />
