@@ -10,3 +10,11 @@ Return
 ::shit::
 Send, poop
 Return
+
+::asshole::
+Send, a-hole
+Return
+
+::tf::
+Send, what in world
+Return
