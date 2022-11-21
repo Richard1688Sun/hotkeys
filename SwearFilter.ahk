@@ -22,3 +22,7 @@ Return
 ::fucked::
 Send, f***ed
 Return
+
+::wtf::
+Send, what the f***
+Return

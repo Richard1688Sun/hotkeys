@@ -43,6 +43,10 @@ Return
 Send, laughing my a** off
 Return
 
+:C:sry::
+Send, sorry
+Return
+
 :C:fr::
 Send, for real
 Return
