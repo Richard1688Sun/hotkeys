@@ -8,7 +8,7 @@ Send, f***
 Return
 
 ::shit::
-Send, poop
+Send, trash
 Return
 
 ::asshole::
