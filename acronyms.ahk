@@ -43,6 +43,10 @@ Return
 Send, laughing my a** off
 Return
 
-::fr::
+:C:fr::
 Send, for real
+Return
+
+:C:ez::
+Send, easy
 Return
