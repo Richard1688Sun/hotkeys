@@ -59,14 +59,37 @@ Return
 Send, I don't even know
 Return
 
-:C:y::
+:C:Y::
 Send, why
 Return
 
-:C:u::
+:C:U::
 Send, you
 Return
 
 :C:thx::
-Send, thanks
+Send, thanks:blush: 
 Return
+
+:C:gn::
+Send, goodnight:sleeping: 
+Return
+
+:C:dw::
+Send, don't worry
+Return
+
+:C:idk::
+Send, I don't know
+Return
+
+:C:jk::
+Send, just jocking:stuck_out_tongue_winking_eye: 
+Return
+
+:C:CRY::
+Send, :persevere::confounded::tired_face::weary::sob:
+Return
+
+:C:rip::
+Send, rest in peace:skull: 
