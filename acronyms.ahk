@@ -93,3 +93,28 @@ Return
 
 :C:rip::
 Send, rest in peace:skull: 
+Return
+
+:C:NOWAY::
+Send, :hushed::open_mouth::astonished::scream::exploding_head: 
+Return
+
+:C:kinda::
+Send, kind 
+Return
+
+:C:HYPE::
+Send, :star_struck::partying_face::triumph::saluting_face::sunglasses:
+Return 
+
+:C:Miz::
+Send, Mieszko
+Return
+
+:C:ss::
+Send, screenshot
+Return
+
+:C:idgi::
+Send, I don't get it
+Return
