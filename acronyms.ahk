@@ -4,117 +4,133 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 :C:brb::
-Send, be right back
+Send, be right back%A_Space%
 Return
 
 :C:lol::
-Send, laughing out loud
+Send, laughing out loud%A_Space%
 Return
 
 :C:ihni::
-Send, I have no idea
+Send, I have no idea%A_Space%
 Return
 
 :C:mhm::
-Send, yup
+Send, yup%A_Space%
 Return
 
 :C:gtg::
-Send, got to go
+Send, got to go%A_Space%
 Return
 
 :C:omg::
-Send, Oh my GOD
+Send, Oh my GOD%A_Space%
 Return
 
 :C:gz::
-Send, congradulations!
+Send, congradulations!%A_Space%
 Return
 
 :C:rn::
-Send, right now
+Send, right now%A_Space%
 Return
 
 :C:btw::
-Send, by the way
+Send, by the way%A_Space%
 Return
 
 :C:lmao::
-Send, laughing my a** off
+Send, laughing my a** off%A_Space%
 Return
 
 :C:sry::
-Send, sorry
+Send, sorry%A_Space%
 Return
 
 :C:fr::
-Send, for real
+Send, for real%A_Space%
 Return
 
 :C:ez::
-Send, easy
+Send, easy%A_Space%
 Return
 
 :C:idek::
-Send, I don't even know
+Send, I don't even know%A_Space%
 Return
 
 :C:Y::
-Send, why
+Send, why%A_Space%
 Return
 
 :C:U::
-Send, you
+Send, you%A_Space%
 Return
 
 :C:thx::
-Send, thanks:blush: 
+Send, thanks:blush:%A_Space% 
 Return
 
 :C:gn::
-Send, goodnight:sleeping: 
+Send, goodnight:sleeping:%A_Space%
 Return
 
 :C:dw::
-Send, don't worry
+Send, don't worry%A_Space%
 Return
 
 :C:idk::
-Send, I don't know
+Send, I don't know%A_Space%
 Return
 
 :C:jk::
-Send, just jocking:stuck_out_tongue_winking_eye: 
+Send, just jocking:stuck_out_tongue_winking_eye:%A_Space% 
 Return
 
 :C:CRY::
-Send, :persevere::confounded::tired_face::weary::sob:
+Send, :persevere::confounded::tired_face::weary::sob:%A_Space%
 Return
 
 :C:rip::
-Send, rest in peace:skull: 
+Send, rest in peace:skull:%A_Space%
 Return
 
 :C:NOWAY::
-Send, :hushed::open_mouth::astonished::scream::exploding_head: 
+Send, :hushed::open_mouth::astonished::scream::exploding_head:%A_Space%
 Return
 
 :C:kinda::
-Send, kind 
+Send, kind of%A_Space%
 Return
 
 :C:HYPE::
-Send, :star_struck::partying_face::triumph::saluting_face::sunglasses:
+Send, :star_struck::partying_face::triumph::saluting_face::sunglasses:%A_Space%
 Return 
 
 :C:Miz::
-Send, Mieszko
+Send, Mieszko%A_Space%
 Return
 
 :C:ss::
-Send, screenshot
+Send, screenshot%A_Space%
 Return
 
 :C:idgi::
-Send, I don't get it
+Send, I don't get it%A_Space%
+Return
+
+:C:mbn::
+Send, must be nice%A_Space%
+Return
+
+:C:hr::
+Send, hour%A_Space%
+Return
+
+:C:RAGE::
+Send, :exploding_head: :angry: :rage: :face_with_symbols_over_mouth: :skull:%A_Space%
+Return
+
+:C:imo::
+Send, in my opinion%A_Space%
 Return
