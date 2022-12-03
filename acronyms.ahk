@@ -134,3 +134,59 @@ Return
 :C:imo::
 Send, in my opinion%A_Space%
 Return
+
+:C:tmr::
+Send, tomorrow%A_Space%
+Return
+
+:C:uni::
+Send, university%A_Space%
+Return
+
+:C:mb::
+Send, my bad%A_Space%
+Return
+
+:C:iirc::
+Send, if I recall correctly%A_Space%
+Return
+
+:C:dnd::
+Send do not disturb%A_Space%
+Return
+
+:C:yk::
+Send, you know%A_Space%
+Return
+
+:C:fwiw::
+Send, for what it's worth%A_Space%
+Return
+
+:C:SIGH::
+Send, :confused: :disappointed: :worried: :pensive: :face_exhaling:%A_Space%
+Return
+
+:C:plz::
+Send, please%A_Space%
+Return
+
+:C:wyd::
+Send, what you doing?%A_Space%
+Return
+
+:C:gl::
+Send, good luck:thumbsup: %A_Space%
+Return 
+
+:C:wip::
+Send, work in progress%A_Space%
+Return
+
+:C:wdym::
+Send, what do you mean?%A_Space%
+Return
+
+:C:msg::
+Send, message%A_Space%
+Return
