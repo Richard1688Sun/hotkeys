@@ -8,7 +8,11 @@ Send, be right back%A_Space%
 Return
 
 :C:lol::
-Send, laughing out loud%A_Space%
+Send, lol%A_Space%
+Return
+
+:C:LOL::
+Send, laughing out loud😆%A_Space%
 Return
 
 :C:ihni::
@@ -44,7 +48,7 @@ Send, laughing my a** off%A_Space%
 Return
 
 :C:sry::
-Send, sorry%A_Space%
+Send, sorry🥺%A_Space%
 Return
 
 :C:fr::
@@ -68,11 +72,11 @@ Send, you%A_Space%
 Return
 
 :C:thx::
-Send, thanks:blush:%A_Space% 
+Send, thanks😊%A_Space% 
 Return
 
 :C:gn::
-Send, goodnight:sleeping:%A_Space%
+Send, goodnight😴%A_Space%
 Return
 
 :C:dw::
@@ -84,19 +88,23 @@ Send, I don't know%A_Space%
 Return
 
 :C:jk::
-Send, just jocking:stuck_out_tongue_winking_eye:%A_Space% 
+Send, just joking😜%A_Space% 
 Return
 
 :C:CRY::
-Send, :persevere::confounded::tired_face::weary::sob:%A_Space%
+Send, 😣😖😫😩😭%A_Space%
 Return
 
 :C:rip::
-Send, rest in peace:skull:%A_Space%
+Send, rip💀%A_Space%
+Return
+
+:C:RIP::
+Send, rest in peace💀%A_Space%
 Return
 
 :C:NOWAY::
-Send, :hushed::open_mouth::astonished::scream::exploding_head:%A_Space%
+Send, 😯😮😲😱🤯%A_Space%
 Return
 
 :C:kinda::
@@ -104,7 +112,7 @@ Send, kind of%A_Space%
 Return
 
 :C:HYPE::
-Send, :star_struck::partying_face::triumph::saluting_face::sunglasses:%A_Space%
+Send, 🤩🥳😤🫡😎%A_Space%
 Return 
 
 :C:Miz::
@@ -128,7 +136,7 @@ Send, hour%A_Space%
 Return
 
 :C:RAGE::
-Send, :exploding_head: :angry: :rage: :face_with_symbols_over_mouth: :skull:%A_Space%
+Send, 🤯 😠 😡 🤬 💀%A_Space%
 Return
 
 :C:imo::
@@ -164,7 +172,7 @@ Send, for what it's worth%A_Space%
 Return
 
 :C:SIGH::
-Send, :confused: :disappointed: :worried: :pensive: :face_exhaling:%A_Space%
+Send, 😕 😞 😟 😔 😮‍💨%A_Space%
 Return
 
 :C:plz::
@@ -176,7 +184,7 @@ Send, what you doing?%A_Space%
 Return
 
 :C:gl::
-Send, good luck:thumbsup: %A_Space%
+Send, good luck👍%A_Space%
 Return 
 
 :C:wip::
@@ -189,4 +197,60 @@ Return
 
 :C:msg::
 Send, message%A_Space%
+Return
+
+:C:grps::
+Send, groups%A_Space%
+Return
+
+:C:cmn::
+Send, common%A_Space%
+Return
+
+:C:tldr::
+Send, too long didn't read%A_Space%
+Return 
+
+:C:idky::
+Send, I don't know why%A_Space%
+Return
+
+:C:tbf::
+Send, to be fair%A_Space%
+Return
+
+:C:hmu::
+Send, hit me up%A_Space%
+Return
+
+:C:ig::
+Send, I guess%A_Space%
+Return
+
+:C:IG::
+Send, Instagram%A_Space%
+Return
+
+:C:nb::
+Send, not bad%A_Space%
+Return
+
+:C:tbh::
+Send, to be honest%A_Space%
+Return
+
+:C:ykw::
+Send, you know what%A_Space%
+Return
+
+:C:gg::
+Send, good game🫠%A_Space%
+Return
+
+:C:ur::
+Send, you're%A_Space%
+Return
+
+:C:COOL::
+Send, 🙂🙃😌😉😎
 Return
