@@ -4,11 +4,11 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::fuck::
-Send, f**k%A_Space%
+Send, fudge%A_Space%
 Return
 
 ::fk::
-Send, f**k%A_Space%
+Send, fudge%A_Space%
 Return
 
 ::shit::
@@ -20,15 +20,15 @@ Send, assh**e%A_Space%
 Return
 
 ::tf::
-Send, the f**k%A_Space%
+Send, the fudge%A_Space%
 Return
 
 ::fucked::
-Send, f**ked%A_Space%
+Send, fudged%A_Space%
 Return
 
 ::wtf::
-Send, what the f**k%A_Space%
+Send, what the fudge%A_Space%
 Return
 
 ::bitch::
@@ -37,3 +37,8 @@ Return
 
 ::bish::
 Send, bit*h%A_Space%
+Return
+
+::af::
+Send, as fudge%A_Space%
+Return

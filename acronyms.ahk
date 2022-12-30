@@ -48,6 +48,10 @@ Send, laughing my a** off%A_Space%
 Return
 
 :C:sry::
+Send, sorry%A_Space%
+Return
+
+:C:SRY::
 Send, sorry🥺%A_Space%
 Return
 
@@ -179,6 +183,10 @@ Return
 Send, please%A_Space%
 Return
 
+:C:PLZ::
+Send, please🥺%A_Space%
+Return
+
 :C:wyd::
 Send, what you doing?%A_Space%
 Return
@@ -252,5 +260,33 @@ Send, you're%A_Space%
 Return
 
 :C:COOL::
-Send, 🙂🙃😌😉😎
+Send, 🙂🙃😌😉😎%A_Space%
+Return
+
+:C:np::
+Send, no problem😉%A_Space%
+Return
+
+:C:iiwii::
+Send, it is what it is😔%A_Space%
+Return
+
+:C:hw::
+Send, homework%A_Space%
+Return
+
+:C:fin::
+Send, finish%A_Space%
+Return
+
+:C:ikr::
+Send, I know right%A_Space%
+Return
+
+:C:avg::
+Send, average%A_Space%
+Return
+
+:C:smt::
+Send, something%A_Space%
 Return
