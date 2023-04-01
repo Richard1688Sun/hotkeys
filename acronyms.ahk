@@ -32,7 +32,7 @@ Send, Oh my GOD%A_Space%
 Return
 
 :C:gz::
-Send, congradulations!%A_Space%
+Send, congradulations{!}%A_Space%
 Return
 
 :C:rn::
@@ -140,7 +140,7 @@ Send, hour%A_Space%
 Return
 
 :C:RAGE::
-Send, 🤯 😠 😡 🤬 💀%A_Space%
+Send, 🤯😠😡🤬💀%A_Space%
 Return
 
 :C:imo::
@@ -176,7 +176,7 @@ Send, for what it's worth%A_Space%
 Return
 
 :C:SIGH::
-Send, 😕 😞 😟 😔 😮‍💨%A_Space%
+Send, 😕😞😟😔😮‍💨%A_Space%
 Return
 
 :C:plz::
@@ -255,10 +255,6 @@ Return
 Send, good game🫠%A_Space%
 Return
 
-:C:ur::
-Send, you're%A_Space%
-Return
-
 :C:COOL::
 Send, 🙂🙃😌😉😎%A_Space%
 Return
@@ -289,4 +285,68 @@ Return
 
 :C:smt::
 Send, something%A_Space%
+Return
+
+:C:smh::
+Send, shaking my head%A_Space%
+Return
+
+:C:bbt::
+Send, bobble tea%A_Space%
+Return
+
+:C:dm::
+Send, direct message%A_Space%
+Return
+
+:C:hf::
+Send, have fun🤪%A_Space%
+Return
+
+:C:BRUH::
+Send, 😐😑😵‍💫😵💀%A_Space%
+Return
+
+:C:nvm::
+Send, nevermind%A_Space%
+Return
+
+:C:wsl::
+Send, windows subsystem linux%A_Space%
+Return
+
+:C:ymmw::
+Send, your mileage may vary%A_Space%
+Return
+
+:C:vm::
+Send, virtual machine%A_Space%
+Return
+
+:C:onyl::
+Send, only%A_Space%
+Return
+
+:C:ic::
+Send, I see%A_Space%
+Return
+
+:C:ukw::
+Send, you know what%A_Space%
+Return
+
+:C:mfw::
+Send, my face when%A_Space%
+Return
+
+:C:idc::
+Send, I don't care%A_Space%
+Return
+
+:C:wth::
+Send, what the heck{!}%A_Space%
+Return
+
+:C:EZ::
+Send, EZ😎%A_Space%
 Return

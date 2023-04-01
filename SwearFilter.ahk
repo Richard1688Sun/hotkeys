@@ -16,7 +16,7 @@ Send, sh*t%A_Space%
 Return
 
 ::asshole::
-Send, assh**e%A_Space%
+Send, a**hole%A_Space%
 Return
 
 ::tf::
@@ -41,4 +41,8 @@ Return
 
 ::af::
 Send, as fudge%A_Space%
+Return
+
+::ass::
+Send, a*s%A_Space%
 Return
