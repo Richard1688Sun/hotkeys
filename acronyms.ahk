@@ -311,16 +311,8 @@ Return
 Send, nevermind%A_Space%
 Return
 
-:C:wsl::
-Send, windows subsystem linux%A_Space%
-Return
-
 :C:ymmw::
 Send, your mileage may vary%A_Space%
-Return
-
-:C:vm::
-Send, virtual machine%A_Space%
 Return
 
 :C:onyl::
@@ -349,4 +341,12 @@ Return
 
 :C:EZ::
 Send, EZ😎%A_Space%
+Return
+
+:C:ngl::
+Send, not gonna lie%A_Space%
+Return
+
+:C:rmb::
+Send, remember%A_Space%
 Return

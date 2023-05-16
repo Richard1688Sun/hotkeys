@@ -46,3 +46,7 @@ Return
 ::ass::
 Send, a*s%A_Space%
 Return
+
+::hate::
+Send, very dislike%A_Space%
+Return
