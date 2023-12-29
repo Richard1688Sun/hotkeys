@@ -50,3 +50,15 @@ Return
 ::hate::
 Send, very dislike%A_Space%
 Return
+
+::retard::
+Send, idiot%A_Space%
+Return
+
+::retarded::
+Send, stupid%A_Space%
+Return
+
+::alcohol::
+Send, funny juice%A_Space%
+Return
