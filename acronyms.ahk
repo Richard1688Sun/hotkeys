@@ -152,11 +152,11 @@ Send, just kidding😜%A_Space%
 Return
 
 :C:lmao::
-Send, laughing my a** off%A_Space%
+Send, laughing my a*s off%A_Space%
 Return
 
 :C:lmfao::
-Send, laughing my f**king a** off%A_Space%
+Send, laughing my fudging a*s off%A_Space%
 Return
 
 :C:lol::
